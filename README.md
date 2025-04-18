@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ABHIN
-- 👀 I’m interested in App Development 
+- 👀 I’m interested in App Development and web design
 - 🌱 I’m currently learning Flutter Fullstack Development 
-- 💞️ I’m looking to collaborate on Flutter
-- Developement
+- 💞️ I’m looking to collaborate on Flutter Developement
 - 📫 How to reach me through abhinpnd17@mail.com 
   
 
